@@ -1,0 +1,17 @@
+Backend Installation
+	npm init -y
+	npm install express mongoose bcrypt dotenv jsonwebtoken socket.io
+	npm install --save-dev nodemon
+	npm start
+
+
+
+Frontend Installation
+	npx create-react-app .
+	npm install socket.io-client
+	npm start
+
+
+
+MongoDB:
+	mongod
